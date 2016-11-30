@@ -1,0 +1,29 @@
+{
+  "name": "intel-edison-grove-lcd-rotary-display",
+  "version": "0.0.1",
+  "description": "A demo of the Intel Edison displaying color and data on a Grove RGB LCD with data from a Grove Rotary Angle Sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinzwhuang/intel-edison-grove-lcd-rotary-display.git"
+  },
+  "keywords": [
+    "LCD",
+    "intel",
+    "edison",
+    "iot"
+  ],
+  "author": "Kevin Huang <kevin.ziwen.huang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinzwhuang/intel-edison-grove-lcd-rotary-display/issues"
+  },
+  "homepage": "https://github.com/kevinzwhuang/intel-edison-grove-lcd-rotary-display#readme",
+  "dependencies": {
+    "johnny-five": "0.10.6",
+    "edison-io": "0.10.0"
+  }
+}
